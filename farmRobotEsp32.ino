@@ -31,7 +31,7 @@ float Ki = 0.5;  // Integral gain
 float Kd = 1.0;  // Derivative gain
 
 // U-turn threshold
-const int uTurnThreshold = 150; // Need to adjust with real world
+const int uTurnThreshold = 120; // Need to adjust with real world
 
 String decision = "";
 
